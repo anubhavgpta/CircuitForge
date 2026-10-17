@@ -1,0 +1,11 @@
+*.exe
+*.obj
+*.pdb
+*.lib
+*.exp
+.vs/
+x64/
+Debug/
+Release/
+BuildLog.txt
+BuildDebug.txt
