@@ -1,0 +1,9 @@
+# Small combinational bench syntax fixture
+INPUT(a)
+INPUT(b)
+INPUT(c)
+OUTPUT(z)
+OUTPUT(carry)
+z = XNOR(t,c)
+t = XOR(a,b)
+carry = AND(a,b)

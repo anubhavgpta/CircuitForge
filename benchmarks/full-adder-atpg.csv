@@ -1,0 +1,17 @@
+fault_id,wire,stuck,status,nodes,pattern
+0,A,0,Detected,5,100
+1,A,1,Detected,4,000
+2,B,0,Detected,5,010
+3,B,1,Detected,4,000
+4,CIN,0,Detected,5,001
+5,CIN,1,Detected,4,000
+6,SUM,0,Detected,5,001
+7,SUM,1,Detected,4,000
+8,COUT,0,Detected,6,011
+9,COUT,1,Detected,3,000
+10,X1,0,Detected,5,010
+11,X1,1,Detected,4,000
+12,T1,0,Detected,5,110
+13,T1,1,Detected,3,000
+14,T2,0,Detected,6,011
+15,T2,1,Detected,3,000

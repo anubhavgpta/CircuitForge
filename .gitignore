@@ -9,3 +9,9 @@ Debug/
 Release/
 BuildLog.txt
 BuildDebug.txt
+
+build*/
+build-test-netlist.txt
+__pycache__/
+
+/Desktop*.png

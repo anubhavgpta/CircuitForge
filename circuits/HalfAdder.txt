@@ -1,0 +1,7 @@
+# Two-input half adder
+
+INPUT A B
+OUTPUT SUM CARRY
+
+XOR SUM A B
+AND CARRY A B

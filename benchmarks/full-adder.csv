@@ -1,0 +1,2 @@
+wires,gates,patterns,pattern_mode,seed,faults,dropping,block_size,repetitions,scalar_ms,cpu_packed_ms,gpu_kernel_ms,h2d_ms,d2h_ms,end_to_end_ms,evaluations_per_s,patterns_per_s,device_bytes,cpu_over_gpu
+8,5,257,sampled,1,16,0,128,3,0.5724,0.0209,0.3903039992,0.3601599988,0.5171199925,2.4851,1654661.784,103416.3615,856,0.008410124341

@@ -1,0 +1,4 @@
+Command: compute-sanitizer --tool memcheck --error-exitcode 99 build-gpu/CircuitForge.exe faults circuits/benchmarks/Generated512.txt --gpu --patterns 33 --fault-dropping --output benchmarks/sanitizer-faults.csv
+Coverage: 176/1056 (16.6667%)
+ERROR SUMMARY: 0 errors
+Exit code: 0

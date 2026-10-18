@@ -1,0 +1,9 @@
+# CircuitForge netlist
+# Y = (A XOR B) AND (NOT C)
+
+INPUT A B C
+OUTPUT Y
+
+XOR D A B
+NOT E C
+AND Y D E
